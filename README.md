@@ -51,13 +51,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
 ## 📫 Connect With Me
 - GitHub: https://github.com/ragavigunasekar
 - LinkedIn: https://www.linkedin.com/in/ragavi-g-477b73331
