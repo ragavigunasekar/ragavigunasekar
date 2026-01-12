@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi 👋, I'm RAGAVI G
 
-<!--
-**ragavigunasekar/ragavigunasekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Machine Learning Student at **Rajalakshmi Engineering College**  
+🌐 AIML Enthusiast  
+💼 Completed a **Web Development Internship**  
+💡 Interested in combining AI/ML concepts with user-friendly web interfaces  
+🌱 Currently learning and building projects in **AI/ML and web technologies**  
+🚀 Actively seeking **internship and project opportunities**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Internship Experience
+
+**Web Development Intern**  
+- Designed and developed a **personal portfolio website**  
+- Implemented responsive layouts using **HTML, CSS, and JavaScript**  
+- Focused on clean UI design and user experience  
+- Improved understanding of real-world web development practices  
+- Gained experience working with project requirements and deadlines  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+- Python  
+- JavaScript 
+
+### 🤖 AI / Machine Learning
+- Machine Learning fundamentals  
+- NumPy  
+- Pandas  
+
+### 🌐 Web Development
+- HTML  
+- CSS  
+- JavaScript  
+- Responsive Web Design  
+
+### 🧰 Tools
+- Git & GitHub  
+- VS Code  
+
+---
+
+## 📌 What I'm Currently Working On
+- AI/ML learning projects and experiments  
+- Improving Python programming skills  
+- Enhancing web development skills  
+- Building clean and simple user interfaces  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/ragavigunasekar
+- LinkedIn: https://www.linkedin.com/in/ragavi-g-477b73331
+---
+
+⭐ *I enjoy learning, building, and improving through hands-on projects. Open to collaboration and new opportunities.*
