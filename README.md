@@ -1,264 +1,293 @@
 # RAGAVI G
 
-### AI & ML · Full Stack · Intelligent Systems
+### `AI / ML` · `SOFTWARE` · `BUILDING`
 
-**Pre-Final Year B.Tech Artificial Intelligence & Machine Learning student at Rajalakshmi Engineering College, building across the boundary between intelligent systems and software engineering.**
+**Pre-Final Year B.Tech Artificial Intelligence & Machine Learning student at Rajalakshmi Engineering College, Chennai.**
 
-I’m interested in the complete journey of a technical idea — from understanding the problem and designing the intelligence behind it, to engineering the application and shaping the interface people actually use.
+I build at the intersection of **Artificial Intelligence, software development, and interactive digital experiences** — turning ideas and problem statements into working prototypes, applications, and experiments.
 
-My work currently spans **Artificial Intelligence, Machine Learning, Generative AI, AI Agents, Computer Vision, and Full Stack Development**.
+<br>
 
-I learn by building systems, experimenting with ideas, and turning technical concepts into working applications.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ragavi-g/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge\&logo=vercel\&logoColor=111111)](https://ais-dev-x4w7w6c4oa44uko2zbrd3k-215542069777.asia-east1.run.app/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-38BDF8?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://www.kaggle.com/ragavig241501156)
+[![Email](https://img.shields.io/badge/Email-F5F5F5?style=for-the-badge\&logo=gmail\&logoColor=111111)](mailto:ragavigunasekar@gmail.com)
 
 ---
 
-## THE DIRECTION
+## `01` — WHAT I BUILD
 
 ```text
-                         INTELLIGENCE
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-            AI/ML         GENERATIVE AI     AI AGENTS
-             │                │                │
-             └────────────────┼────────────────┘
-                              │
-                         SOFTWARE
-                              │
-                    FULL STACK SYSTEMS
-                              │
-                              ▼
-                           PRODUCT
+                         IDEAS
+                           │
+                           ▼
+                     PROBLEM SPACE
+                           │
+                 ┌─────────┴─────────┐
+                 │                   │
+              AI / ML             SOFTWARE
+                 │                   │
+        ┌────────┼────────┐          │
+        │        │        │          │
+       ML       CV      GenAI     FULL STACK
+        │        │        │          │
+        └────────┼────────┘          │
+                 │                   │
+                 └─────────┬─────────┘
+                           │
+                           ▼
+                       APPLICATION
+                           │
+                           ▼
+                         USER
 ```
 
-My goal is to grow into an engineer who can work across this entire layer — understanding the intelligence, engineering the system, and delivering the product.
+I’m particularly interested in the point where **intelligence becomes software** — where models, algorithms, interfaces, and engineering decisions come together to solve a practical problem.
 
 ---
 
-# SELECTED WORK
+# `02` — SELECTED WORK
 
-## MetrIQ
+### 🧠 MetrIQ
 
-### AI-Powered Packaged Commodity Compliance Intelligence
+**AI-Powered Packaged Commodity Compliance Intelligence**
 
-An AI-powered system exploring how **OCR, computer vision, and rule-based reasoning** can transform product-label information into explainable compliance decisions.
+Exploring OCR, computer vision, information extraction, and rule-based reasoning to analyze packaged-product labels against compliance requirements.
 
-**Focus:** `AI` `OCR` `Computer Vision` `Rule Engine` `Explainability`
+`AI` `OCR` `Computer Vision` `Rule Engine`
 
 ---
 
-## CivicShield AI
+### 🛡️ Deepfake Shield
 
-### Multi-Agent Crisis Response Intelligence
+**Synthetic Media Detection**
 
-A multi-agent decision-support system exploring how specialized AI agents can collaborate through an orchestrated architecture for emergency and crisis-response scenarios.
+A computer-vision project exploring AI-based analysis of manipulated visual media and the challenges involved in identifying synthetic content.
+
+`Python` `Machine Learning` `Computer Vision`
+
+---
+
+### 📅 AI Timetable Generator
+
+**Intelligent Academic Scheduling**
+
+A web-based scheduling project exploring constraint-based timetable generation across classes, teachers, student batches, and classrooms.
+
+`TypeScript` `React` `Node.js` `Scheduling`
+
+---
+
+### 🚨 CivicShield AI
+
+**Multi-Agent Crisis Response Intelligence**
+
+A hackathon concept exploring how specialized AI agents can coordinate through an orchestrated architecture for emergency-response scenarios.
 
 > **One incident. Multiple agents. One coordinated response.**
 
-**Focus:** `Generative AI` `AI Agents` `Multi-Agent Systems` `Orchestration`
+`Generative AI` `AI Agents` `Multi-Agent Systems`
 
 ---
 
-## AI Timetable Generator
+### 🛠️ ToolVerse
 
-### Intelligent Academic Scheduling
+**The Internet's Toolbox**
 
-An AI-powered scheduling concept designed to transform timetable creation from a manual planning task into an intelligent constraint-based process.
+A collection of lightweight browser utilities focused on practical frontend development and clean user experiences.
 
-The system explores how scheduling requirements, constraints, resources, and academic preferences can be coordinated to generate practical timetables.
-
-**Focus:** `Artificial Intelligence` `Constraint Optimization` `Scheduling` `Automation` `Web Development`
+`HTML` `CSS` `JavaScript` `GitHub Pages`
 
 ---
 
-## Deepfake Shield
+### 🌐 Interactive AI Portfolio
 
-### AI-Powered Synthetic Media Detection
+**From Intelligence to Interface**
 
-A responsible-AI project exploring the detection of manipulated and synthetic media using AI-driven analysis.
+A 3D portfolio experiment combining interactive UI, WebGL, and software engineering to create a different way of presenting technical work.
 
-The goal is to help distinguish potentially manipulated content from authentic media while making the detection process understandable to users.
-
-**Focus:** `Artificial Intelligence` `Deep Learning` `Computer Vision` `Deepfake Detection` `Responsible AI`
+`React` `TypeScript` `Three.js` `React Three Fiber`
 
 ---
 
-## ToolVerse
-
-### The Internet's Toolbox
-
-A lightweight collection of practical browser-based utilities designed around simplicity, usability, and frontend engineering.
-
-Includes utilities for:
-
-* Text processing
-* JSON formatting
-* Password generation
-* Encoding
-* Calculations
-* QR generation
-* Developer productivity
-
-**Focus:** `JavaScript` `HTML` `CSS` `Frontend Development`
-
----
-
-## Interactive AI Portfolio
-
-### Building Intelligence from Idea to Interface
-
-A 3D personal portfolio exploring how interactive interfaces can communicate technical concepts through spatial design, motion, and WebGL.
-
-The portfolio itself is an evolving engineering project — designed to grow alongside my skills, projects, and experience.
-
-**Focus:** `React` `TypeScript` `Three.js` `React Three Fiber` `Interactive UI`
-
----
-
-# ENGINEERING STACK
+# `03` — TECHNOLOGY
 
 ### Languages
 
-`Python` `Java` `JavaScript` `C` `SQL`
+![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-7C3AED?style=flat-square\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-A78BFA?style=flat-square\&logo=javascript\&logoColor=111111)
+![TypeScript](https://img.shields.io/badge/TypeScript-A78BFA?style=flat-square\&logo=typescript\&logoColor=111111)
+![C](https://img.shields.io/badge/C-38BDF8?style=flat-square\&logo=c\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-38BDF8?style=flat-square\&logo=postgresql\&logoColor=white)
 
-### Artificial Intelligence
+### AI / ML
 
-`Artificial Intelligence` `Machine Learning` `Deep Learning` `Generative AI` `AI Agents` `NLP` `Computer Vision`
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-7C3AED?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-7C3AED?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-A78BFA?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-A78BFA?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-38BDF8?style=flat-square)
 
 ### Development
 
-`Full Stack Development` `Frontend Development` `Backend Development` `REST APIs`
+![React](https://img.shields.io/badge/React-111111?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square\&logo=node.js\&logoColor=68A063)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square\&logo=css3\&logoColor=1572B6)
+![Three.js](https://img.shields.io/badge/Three.js-111111?style=flat-square\&logo=three.js\&logoColor=white)
 
-### Data & Computing
+### Engineering
 
-`NumPy` `Pandas` `Jupyter` `Google Colab` `Kaggle`
-
-### Engineering Tools
-
-`Git` `GitHub` `VS Code`
-
----
-
-# EXPERIENCE
-
-## Web Development Internship
-
-Hands-on experience in a collaborative web development environment involving:
-
-* Frontend implementation
-* Responsive web interfaces
-* HTML, CSS & JavaScript
-* UI/UX development
-* Translating requirements into working interfaces
-* Working within project requirements and deadlines
-* Collaborative development workflows
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat-square\&logo=visualstudiocode\&logoColor=007ACC)
+![Google Colab](https://img.shields.io/badge/Google_Colab-111111?style=flat-square\&logo=googlecolab\&logoColor=F9AB00)
+![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=flat-square\&logo=jupyter\&logoColor=F37626)
 
 ---
 
-# CURRENTLY BUILDING
+# `04` — EXPERIENCE
 
-### Exploring
+### Web Development Intern
 
-`Generative AI` · `AI Agents` · `Intelligent Systems`
+**Altruisty Innovations Pvt. Ltd.**
 
-### Building
+Worked on frontend development in a collaborative internship environment, building responsive web interfaces and translating requirements into functional experiences.
 
-AI-powered applications and full-stack projects that connect intelligent functionality with usable interfaces.
+**Worked with**
 
-### Strengthening
-
-`Software Engineering` · `Problem Solving` · `Full Stack Development` · `AI/ML Foundations`
-
-### Direction
-
-Moving from individual experiments toward **better-engineered, scalable, and user-focused intelligent applications**.
+`HTML` `CSS` `JavaScript` `Responsive Design` `Git`
 
 ---
 
-# HOW I BUILD
+# `05` — LEADERSHIP
 
-I don't want to learn technology simply to add another keyword to a profile.
+### CODHER'26
 
-I want to understand:
+**Team Lead · Anna University**
 
-**Why does it exist?**
-**Where does it fit?**
-**What problem can it solve?**
-**How can I build it better?**
+Led a team through a two-day hackathon, coordinating ideation, development, task distribution, and final presentation.
+
+### Xypher Inter-College Hackathon
+
+**Team Lead**
+
+Worked with a team under a compressed rapid-development sprint, focusing on prioritization, implementation, and delivering a functional prototype within the available time.
+
+---
+
+# `06` — CREDENTIALS
+
+| Credential                                                                      | Area                  |
+| ------------------------------------------------------------------------------- | --------------------- |
+| **Understanding Incubation and Entrepreneurship** — NPTEL                       | `96 / 100`            |
+| **Entrepreneurship Essentials** — NPTEL                                         | `Certification`       |
+| **Malware Detection Using Machine Learning** — Microsoft / Scaler               | `AI / ML`             |
+| **Web Development Internship** — Altruisty Innovations                          | `Development`         |
+| **Active Listening: The Secret to Effective Communication** — LinkedIn Learning | `Professional Skills` |
+
+---
+
+# `07` — CURRENTLY
 
 ```text
-                  PROBLEM
-                     │
-                     ▼
-                 UNDERSTAND
-                     │
-                     ▼
-                 EXPERIMENT
-                     │
-                     ▼
-                    BUILD
-                     │
-                     ▼
-                   TEST
-                     │
-                     ▼
-                  IMPROVE
-                     │
-                     ▼
-                   SHIP
-                     │
-                     ▼
-                  ITERATE
+BUILDING
+AI-powered applications
+Full-stack experiments
+Interactive software experiences
+
+LEARNING
+Generative AI
+AI Agents
+Computer Vision
+Software Engineering
+
+EXPLORING
+How AI becomes usable software.
+How software becomes a product.
+How ideas become systems.
 ```
 
-Every project is another iteration of that process.
+---
+
+# `08` — HOW I WORK
+
+```text
+       PROBLEM
+          │
+          ▼
+     UNDERSTAND
+          │
+          ▼
+     EXPERIMENT
+          │
+          ▼
+        BUILD
+          │
+          ▼
+        TEST
+          │
+          ▼
+       IMPROVE
+          │
+          ▼
+        SHIP
+          │
+          └───────────────┐
+                          ▼
+                       ITERATE
+```
+
+I learn technology best when I can **build with it**.
+
+Every project is an opportunity to understand something more deeply, make mistakes, improve the implementation, and move from an idea toward something usable.
 
 ---
 
-# WHAT INTERESTS ME
+# `09` — THE DIRECTION
 
-### Artificial Intelligence
+### AI × Software Engineering
 
-Understanding how intelligent systems can move from isolated models to useful applications.
+I want to grow into an engineer who can move across the complete development journey:
 
-### Generative AI
+**Understand the problem → design the system → build the software → integrate intelligence → create the experience.**
 
-Exploring how LLMs and generative systems can become part of practical software.
+Not just models.
 
-### AI Agents
+Not just interfaces.
 
-Experimenting with systems where multiple specialized components can reason, coordinate, and execute tasks.
-
-### Full Stack Engineering
-
-Building the software layer that turns intelligence into something people can actually interact with.
-
-### Responsible AI
-
-Exploring technologies such as deepfake detection where AI can also be used to address problems created by AI.
+**Systems.**
 
 ---
 
-# BEYOND THE CODE
+# `10` — FIND ME
 
-I'm interested in the space where:
+<p align="center">
 
-**Artificial Intelligence meets Software Engineering.**
+<a href="https://github.com/ragavigunasekar">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Where models become systems.
-Where systems become products.
-And where products solve problems people actually have.
+<a href="https://www.linkedin.com/in/ragavi-g/">
+  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="https://www.kaggle.com/ragavig241501156">
+  <img src="https://img.shields.io/badge/Kaggle-38BDF8?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
 
-# CONNECT
+<a href="mailto:ragavigunasekar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=111111"/>
+</a>
 
-**LinkedIn**
-https://www.linkedin.com/in/ragavi-g/
+</p>
 
-**GitHub**
-https://github.com/ragavigunasekar
+<br>
 
----
+<p align="center">
 
-### BUILDING INTELLIGENT SYSTEMS FROM IDEA TO INTERFACE.
+### `BUILDING INTELLIGENT SYSTEMS FROM IDEA TO INTERFACE.`
+
+</p>
+
